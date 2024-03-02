@@ -10,7 +10,7 @@ cd ~
 
 
 ##File Operations:
-
+```
 cp file1.txt /path/to/destination/
 mv old_name.txt new_name.txt
 rm unwanted_file.txt
@@ -18,7 +18,7 @@ touch new_file.txt
 cat file.txt
 nano filename.txt
 
-
+```
 ##File Searching:
 
 find /path/to/search -name "*.txt"
