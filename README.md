@@ -101,15 +101,16 @@ echo "Hello, $1!"
 ```
 
 
-##Networking:
-
+**Networking:**
+```
 ifconfig
 ping google.com
 traceroute google.com
-
+```
 
 
 **Documentation:**
+```
 man ls
-
+```
 
